@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       home: Scaffold(
           appBar: AppBar(
-            title: Text('Xylophone'),
+            title: Text('Xylophoneee'),
           ),
           body: Padding(
             padding: const EdgeInsets.only(
